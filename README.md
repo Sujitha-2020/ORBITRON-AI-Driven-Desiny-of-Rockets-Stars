@@ -1,5 +1,4 @@
-## .............................ORBITRON: AI- Driven Destiny of Rockets & Stars...............................
-
+#  .............................ORBITRON: AI- De=riven Destiny of Rockets & Stars...............................
 ## AI-Driven Mission Risk Intelligence Framework
 
 > An integrated Physics-ML Hybrid Intelligence framework for Launch Failure Prediction, Remaining Useful Life (RUL) Estimation, Near-Earth Object (NEO) Trajectory Prediction, and Mission Risk Intelligence.
@@ -40,7 +39,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-#  Screenshots
+#  Screenshotss
 # --------   These are the screenshots of my results   --------------------
 ## Home Page
 
@@ -56,14 +55,14 @@
 
 ## Satellite Health Monitoring
 
-![Satellite](screenshotss/3.satellite _telemetry.png)
+![Satellite](screenshotss/c.satellite _telemetry.png)
 
 ## NEO Prediction
 
-![NEO](screenshotss/4.NEO Analysis.png)
+![NEO](screenshotss/d.NEO Analysis.png)
 
 ## Mission Evaluation
-![Fusion](screenshotss/MIssion Evauation.png)
+![Fusion](screenshotss/f.MIssion Evauation.png)
 
 #  SYSTEM ARCHITECTURE
 
