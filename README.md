@@ -1,4 +1,5 @@
-#  .............................ORBITRON: AI- De=riven Destiny of Rockets & Stars...............................
+## .............................ORBITRON: AI- Driven Destiny of Rockets & Stars...............................
+
 ## AI-Driven Mission Risk Intelligence Framework
 
 > An integrated Physics-ML Hybrid Intelligence framework for Launch Failure Prediction, Remaining Useful Life (RUL) Estimation, Near-Earth Object (NEO) Trajectory Prediction, and Mission Risk Intelligence.
