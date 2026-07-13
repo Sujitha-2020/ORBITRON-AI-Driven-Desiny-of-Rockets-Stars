@@ -1,0 +1,1001 @@
+Unnamed: 0,Unnamed: 0.1,Company Name,Location,Datum,Detail,Status Rocket, Rocket,Status Mission
+0,0,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 2019 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Failure
+1,1,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 1964 04:00 UTC",Delta IV | Payload,StatusActive,101.4,Success
+2,2,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 1999 04:00 UTC",Soyuz 2 | Payload,StatusActive,40.7,Success
+3,3,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 2018 04:00 UTC",Ariane 5 | Payload,StatusActive,140.4,Success
+4,4,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 15, 1968 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+5,5,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 2006 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+6,6,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 2016 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+7,7,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 2018 04:00 UTC",Soyuz 2 | Payload,StatusActive,121.2,Success
+8,8,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 1990 04:00 UTC",Ariane 5 | Payload,StatusActive,175.0,Success
+9,9,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 1964 04:00 UTC",Delta IV | Payload,StatusActive,164.1,Success
+10,10,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 1968 04:00 UTC",Delta IV | Payload,StatusActive,151.7,Success
+11,11,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 2021 04:00 UTC",Delta IV | Payload,StatusActive,194.7,Success
+12,12,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 1958 04:00 UTC",Ariane 5 | Payload,StatusActive,153.0,Success
+13,13,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 2009 04:00 UTC",Atlas V | Payload,StatusActive,54.9,Success
+14,14,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 2021 04:00 UTC",Soyuz 2 | Payload,StatusActive,130.3,Success
+15,15,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 1986 04:00 UTC",Falcon 9 | Payload,StatusActive,164.3,Success
+16,16,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 1973 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+17,17,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 2021 04:00 UTC",Falcon 9 | Payload,StatusActive,44.7,Success
+18,18,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 1986 04:00 UTC",Falcon 9 | Payload,StatusActive,123.9,Success
+19,19,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jun 15, 2017 04:00 UTC",Soyuz 2 | Payload,StatusActive,20.6,Success
+20,20,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Dec 15, 1972 04:00 UTC",Ariane 5 | Payload,StatusActive,48.6,Success
+21,21,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 2001 04:00 UTC",Atlas V | Payload,StatusActive,155.1,Success
+22,22,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 1993 04:00 UTC",Delta IV | Payload,StatusActive,187.4,Success
+23,23,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 1965 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+24,24,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 1989 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+25,25,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 2013 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+26,26,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 1971 04:00 UTC",Ariane 5 | Payload,StatusActive,29.7,Success
+27,27,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1974 04:00 UTC",Falcon 9 | Payload,StatusActive,147.5,Success
+28,28,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Apr 15, 1959 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+29,29,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Mar 15, 1967 04:00 UTC",Falcon 9 | Payload,StatusActive,131.2,Success
+30,30,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 15, 1996 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Failure
+31,31,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 2020 04:00 UTC",Atlas V | Payload,StatusActive,112.4,Success
+32,32,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 2017 04:00 UTC",Ariane 5 | Payload,StatusActive,68.6,Success
+33,33,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 1991 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+34,34,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 1980 04:00 UTC",Soyuz 2 | Payload,StatusActive,24.9,Success
+35,35,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 15, 2003 04:00 UTC",Atlas V | Payload,StatusActive,93.2,Success
+36,36,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jul 15, 2013 04:00 UTC",Delta IV | Payload,StatusActive,132.2,Success
+37,37,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 1998 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+38,38,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 2006 04:00 UTC",Soyuz 2 | Payload,StatusActive,84.7,Success
+39,39,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Feb 15, 1999 04:00 UTC",Falcon 9 | Payload,StatusActive,174.8,Success
+40,40,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Mar 15, 1959 04:00 UTC",Ariane 5 | Payload,StatusActive,145.6,Success
+41,41,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 2016 04:00 UTC",Atlas V | Payload,StatusActive,92.2,Success
+42,42,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 1958 04:00 UTC",Falcon 9 | Payload,StatusActive,45.6,Success
+43,43,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1969 04:00 UTC",Delta IV | Payload,StatusActive,52.3,Success
+44,44,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 2009 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+45,45,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 1963 04:00 UTC",Atlas V | Payload,StatusActive,29.7,Success
+46,46,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Feb 15, 1965 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+47,47,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 1995 04:00 UTC",Delta IV | Payload,StatusActive,178.1,Success
+48,48,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Dec 15, 1967 04:00 UTC",Falcon 9 | Payload,StatusActive,161.6,Success
+49,49,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 2017 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+50,50,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 1973 04:00 UTC",Atlas V | Payload,StatusActive,143.2,Failure
+51,51,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1994 04:00 UTC",Delta IV | Payload,StatusActive,152.6,Failure
+52,52,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1991 04:00 UTC",Soyuz 2 | Payload,StatusActive,37.5,Success
+53,53,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1981 04:00 UTC",Atlas V | Payload,StatusActive,152.8,Success
+54,54,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 1996 04:00 UTC",Ariane 5 | Payload,StatusActive,162.3,Success
+55,55,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 15, 2014 04:00 UTC",Atlas V | Payload,StatusActive,27.3,Success
+56,56,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 2003 04:00 UTC",Soyuz 2 | Payload,StatusActive,158.2,Success
+57,57,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 2020 04:00 UTC",Ariane 5 | Payload,StatusActive,136.7,Success
+58,58,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 15, 1967 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+59,59,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Apr 15, 1982 04:00 UTC",Falcon 9 | Payload,StatusActive,34.4,Success
+60,60,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1989 04:00 UTC",Falcon 9 | Payload,StatusActive,161.6,Success
+61,61,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Jan 15, 1990 04:00 UTC",Soyuz 2 | Payload,StatusActive,175.0,Success
+62,62,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 2001 04:00 UTC",Soyuz 2 | Payload,StatusActive,73.6,Success
+63,63,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Aug 15, 2005 04:00 UTC",Atlas V | Payload,StatusActive,33.0,Success
+64,64,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Mar 15, 2021 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+65,65,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Dec 15, 1976 04:00 UTC",Falcon 9 | Payload,StatusActive,196.8,Success
+66,66,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 1975 04:00 UTC",Ariane 5 | Payload,StatusActive,24.8,Success
+67,67,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 2015 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+68,68,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 1976 04:00 UTC",Delta IV | Payload,StatusActive,134.9,Success
+69,69,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 15, 1979 04:00 UTC",Atlas V | Payload,StatusActive,61.6,Failure
+70,70,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 15, 2000 04:00 UTC",Delta IV | Payload,StatusActive,111.3,Success
+71,71,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 2011 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+72,72,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 1961 04:00 UTC",Delta IV | Payload,StatusActive,96.5,Success
+73,73,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 15, 1957 04:00 UTC",Soyuz 2 | Payload,StatusActive,49.4,Success
+74,74,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 15, 2006 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+75,75,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 15, 2017 04:00 UTC",Falcon 9 | Payload,StatusActive,106.9,Success
+76,76,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 2011 04:00 UTC",Atlas V | Payload,StatusActive,40.3,Success
+77,77,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Apr 15, 2011 04:00 UTC",Soyuz 2 | Payload,StatusActive,104.2,Success
+78,78,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 1994 04:00 UTC",Delta IV | Payload,StatusActive,39.3,Success
+79,79,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jun 15, 2017 04:00 UTC",Soyuz 2 | Payload,StatusActive,47.2,Success
+80,80,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 1965 04:00 UTC",Ariane 5 | Payload,StatusActive,,Failure
+81,81,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri May 15, 1962 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+82,82,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 1983 04:00 UTC",Ariane 5 | Payload,StatusActive,40.6,Success
+83,83,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 2003 04:00 UTC",Falcon 9 | Payload,StatusActive,42.7,Success
+84,84,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1993 04:00 UTC",Soyuz 2 | Payload,StatusActive,141.9,Failure
+85,85,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jan 15, 1972 04:00 UTC",Falcon 9 | Payload,StatusActive,91.8,Success
+86,86,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 1982 04:00 UTC",Falcon 9 | Payload,StatusActive,92.2,Success
+87,87,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 1984 04:00 UTC",Soyuz 2 | Payload,StatusActive,184.9,Success
+88,88,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1986 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+89,89,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jul 15, 2012 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+90,90,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri May 15, 2002 04:00 UTC",Ariane 5 | Payload,StatusActive,159.0,Success
+91,91,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 2012 04:00 UTC",Soyuz 2 | Payload,StatusActive,62.4,Success
+92,92,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 1972 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Failure
+93,93,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 1985 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+94,94,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 2001 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+95,95,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Mar 15, 1962 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+96,96,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jan 15, 2002 04:00 UTC",Atlas V | Payload,StatusActive,157.3,Success
+97,97,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Feb 15, 1985 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+98,98,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jun 15, 1962 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+99,99,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 1971 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+100,100,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Dec 15, 1987 04:00 UTC",Soyuz 2 | Payload,StatusActive,102.2,Success
+101,101,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Dec 15, 1965 04:00 UTC",Delta IV | Payload,StatusActive,101.9,Success
+102,102,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 1975 04:00 UTC",Soyuz 2 | Payload,StatusActive,42.5,Success
+103,103,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 15, 1996 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+104,104,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Feb 15, 2011 04:00 UTC",Ariane 5 | Payload,StatusActive,48.7,Success
+105,105,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 2009 04:00 UTC",Atlas V | Payload,StatusActive,189.8,Success
+106,106,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 2000 04:00 UTC",Atlas V | Payload,StatusActive,104.3,Success
+107,107,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 1967 04:00 UTC",Falcon 9 | Payload,StatusActive,174.4,Success
+108,108,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 2010 04:00 UTC",Atlas V | Payload,StatusActive,181.0,Success
+109,109,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 1978 04:00 UTC",Atlas V | Payload,StatusActive,187.5,Success
+110,110,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1982 04:00 UTC",Falcon 9 | Payload,StatusActive,67.7,Failure
+111,111,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 2022 04:00 UTC",Delta IV | Payload,StatusActive,91.4,Success
+112,112,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 1980 04:00 UTC",Falcon 9 | Payload,StatusActive,129.2,Success
+113,113,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 15, 2016 04:00 UTC",Soyuz 2 | Payload,StatusActive,172.2,Success
+114,114,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 2003 04:00 UTC",Atlas V | Payload,StatusActive,101.5,Success
+115,115,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 1958 04:00 UTC",Soyuz 2 | Payload,StatusActive,74.0,Success
+116,116,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1966 04:00 UTC",Atlas V | Payload,StatusActive,102.8,Success
+117,117,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 1984 04:00 UTC",Atlas V | Payload,StatusActive,60.8,Success
+118,118,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 1958 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+119,119,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Mar 15, 2017 04:00 UTC",Falcon 9 | Payload,StatusActive,107.2,Success
+120,120,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 1967 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+121,121,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Apr 15, 1972 04:00 UTC",Falcon 9 | Payload,StatusActive,122.0,Success
+122,122,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri May 15, 2003 04:00 UTC",Soyuz 2 | Payload,StatusActive,97.6,Success
+123,123,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 1984 04:00 UTC",Ariane 5 | Payload,StatusActive,86.9,Success
+124,124,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Dec 15, 1972 04:00 UTC",Falcon 9 | Payload,StatusActive,138.0,Success
+125,125,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 2015 04:00 UTC",Soyuz 2 | Payload,StatusActive,185.5,Success
+126,126,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 1966 04:00 UTC",Ariane 5 | Payload,StatusActive,49.7,Success
+127,127,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 2020 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+128,128,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Aug 15, 2012 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+129,129,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Mar 15, 2006 04:00 UTC",Falcon 9 | Payload,StatusActive,97.0,Success
+130,130,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 2012 04:00 UTC",Soyuz 2 | Payload,StatusActive,174.4,Success
+131,131,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 1982 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+132,132,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 1958 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+133,133,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Aug 15, 1981 04:00 UTC",Atlas V | Payload,StatusActive,55.0,Failure
+134,134,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 1969 04:00 UTC",Delta IV | Payload,StatusActive,128.1,Success
+135,135,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1966 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+136,136,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 1970 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+137,137,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 1978 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+138,138,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1997 04:00 UTC",Soyuz 2 | Payload,StatusActive,132.9,Failure
+139,139,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1992 04:00 UTC",Ariane 5 | Payload,StatusActive,55.6,Success
+140,140,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 15, 2013 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+141,141,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Apr 15, 1999 04:00 UTC",Soyuz 2 | Payload,StatusActive,44.5,Success
+142,142,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Aug 15, 1990 04:00 UTC",Atlas V | Payload,StatusActive,49.6,Failure
+143,143,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 1989 04:00 UTC",Delta IV | Payload,StatusActive,169.5,Success
+144,144,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 2009 04:00 UTC",Soyuz 2 | Payload,StatusActive,29.2,Success
+145,145,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 1961 04:00 UTC",Delta IV | Payload,StatusActive,86.7,Failure
+146,146,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jun 15, 1958 04:00 UTC",Falcon 9 | Payload,StatusActive,45.9,Success
+147,147,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 1980 04:00 UTC",Ariane 5 | Payload,StatusActive,99.4,Success
+148,148,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1970 04:00 UTC",Soyuz 2 | Payload,StatusActive,199.3,Success
+149,149,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 1997 04:00 UTC",Soyuz 2 | Payload,StatusActive,179.6,Success
+150,150,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Mar 15, 2003 04:00 UTC",Atlas V | Payload,StatusActive,41.0,Success
+151,151,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 1959 04:00 UTC",Falcon 9 | Payload,StatusActive,79.1,Success
+152,152,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 2010 04:00 UTC",Soyuz 2 | Payload,StatusActive,166.6,Success
+153,153,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 1976 04:00 UTC",Delta IV | Payload,StatusActive,187.7,Success
+154,154,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 2015 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+155,155,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Feb 15, 1978 04:00 UTC",Atlas V | Payload,StatusActive,154.8,Success
+156,156,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 1983 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+157,157,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 1986 04:00 UTC",Atlas V | Payload,StatusActive,130.7,Success
+158,158,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 2013 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+159,159,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 1964 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+160,160,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 2004 04:00 UTC",Atlas V | Payload,StatusActive,103.9,Success
+161,161,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Mar 15, 1976 04:00 UTC",Atlas V | Payload,StatusActive,153.5,Success
+162,162,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 15, 1974 04:00 UTC",Delta IV | Payload,StatusActive,134.7,Success
+163,163,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 2002 04:00 UTC",Atlas V | Payload,StatusActive,143.5,Success
+164,164,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 1971 04:00 UTC",Delta IV | Payload,StatusActive,100.7,Success
+165,165,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 1969 04:00 UTC",Falcon 9 | Payload,StatusActive,148.0,Success
+166,166,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 1999 04:00 UTC",Atlas V | Payload,StatusActive,26.4,Success
+167,167,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 15, 2001 04:00 UTC",Atlas V | Payload,StatusActive,124.9,Success
+168,168,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Mar 15, 1979 04:00 UTC",Soyuz 2 | Payload,StatusActive,190.8,Success
+169,169,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 1976 04:00 UTC",Ariane 5 | Payload,StatusActive,147.4,Success
+170,170,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 1997 04:00 UTC",Falcon 9 | Payload,StatusActive,71.5,Success
+171,171,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1974 04:00 UTC",Atlas V | Payload,StatusActive,194.1,Success
+172,172,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 1987 04:00 UTC",Falcon 9 | Payload,StatusActive,39.9,Success
+173,173,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1999 04:00 UTC",Soyuz 2 | Payload,StatusActive,155.9,Success
+174,174,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 1982 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+175,175,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 2010 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+176,176,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 2014 04:00 UTC",Atlas V | Payload,StatusActive,98.8,Success
+177,177,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 1965 04:00 UTC",Soyuz 2 | Payload,StatusActive,119.7,Success
+178,178,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 15, 2014 04:00 UTC",Atlas V | Payload,StatusActive,23.4,Success
+179,179,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 15, 1983 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+180,180,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 1999 04:00 UTC",Atlas V | Payload,StatusActive,172.7,Success
+181,181,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 1984 04:00 UTC",Soyuz 2 | Payload,StatusActive,159.8,Success
+182,182,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 1994 04:00 UTC",Falcon 9 | Payload,StatusActive,182.8,Success
+183,183,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 2020 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+184,184,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 15, 1970 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+185,185,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 1987 04:00 UTC",Falcon 9 | Payload,StatusActive,50.3,Success
+186,186,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Apr 15, 1957 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+187,187,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 1957 04:00 UTC",Ariane 5 | Payload,StatusActive,114.8,Success
+188,188,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Apr 15, 2008 04:00 UTC",Delta IV | Payload,StatusActive,171.5,Success
+189,189,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 1983 04:00 UTC",Delta IV | Payload,StatusActive,60.5,Success
+190,190,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 1963 04:00 UTC",Atlas V | Payload,StatusActive,111.0,Success
+191,191,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 1958 04:00 UTC",Falcon 9 | Payload,StatusActive,119.3,Success
+192,192,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 1962 04:00 UTC",Atlas V | Payload,StatusActive,169.2,Success
+193,193,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 15, 1967 04:00 UTC",Falcon 9 | Payload,StatusActive,141.8,Success
+194,194,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 1977 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+195,195,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 2011 04:00 UTC",Falcon 9 | Payload,StatusActive,139.4,Success
+196,196,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Mar 15, 2018 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+197,197,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 1958 04:00 UTC",Falcon 9 | Payload,StatusActive,60.3,Success
+198,198,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Apr 15, 1957 04:00 UTC",Ariane 5 | Payload,StatusActive,126.6,Success
+199,199,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 2019 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+200,200,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 1994 04:00 UTC",Delta IV | Payload,StatusActive,35.7,Success
+201,201,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jun 15, 2012 04:00 UTC",Atlas V | Payload,StatusActive,51.0,Success
+202,202,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Dec 15, 2012 04:00 UTC",Delta IV | Payload,StatusActive,196.8,Success
+203,203,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 2012 04:00 UTC",Falcon 9 | Payload,StatusActive,45.2,Success
+204,204,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 1993 04:00 UTC",Atlas V | Payload,StatusActive,98.6,Success
+205,205,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 1965 04:00 UTC",Soyuz 2 | Payload,StatusActive,151.9,Success
+206,206,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Mar 15, 1961 04:00 UTC",Delta IV | Payload,StatusActive,33.7,Success
+207,207,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 2014 04:00 UTC",Falcon 9 | Payload,StatusActive,25.1,Success
+208,208,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Apr 15, 1979 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+209,209,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Mar 15, 1994 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+210,210,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 2016 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+211,211,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 2019 04:00 UTC",Soyuz 2 | Payload,StatusActive,72.1,Success
+212,212,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1997 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+213,213,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 2006 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+214,214,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Dec 15, 1993 04:00 UTC",Delta IV | Payload,StatusActive,51.0,Success
+215,215,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 15, 2011 04:00 UTC",Falcon 9 | Payload,StatusActive,43.7,Success
+216,216,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri May 15, 1984 04:00 UTC",Falcon 9 | Payload,StatusActive,83.0,Success
+217,217,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Feb 15, 1971 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+218,218,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 1978 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+219,219,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 1966 04:00 UTC",Delta IV | Payload,StatusActive,179.2,Success
+220,220,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 1958 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+221,221,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Jul 15, 1972 04:00 UTC",Delta IV | Payload,StatusActive,132.5,Success
+222,222,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1989 04:00 UTC",Delta IV | Payload,StatusActive,158.6,Success
+223,223,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jan 15, 1958 04:00 UTC",Delta IV | Payload,StatusActive,,Failure
+224,224,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1983 04:00 UTC",Falcon 9 | Payload,StatusActive,147.4,Failure
+225,225,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 2021 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+226,226,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Apr 15, 2009 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+227,227,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 1997 04:00 UTC",Falcon 9 | Payload,StatusActive,46.3,Success
+228,228,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 1997 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+229,229,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 2022 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+230,230,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 2019 04:00 UTC",Falcon 9 | Payload,StatusActive,25.7,Success
+231,231,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 1961 04:00 UTC",Delta IV | Payload,StatusActive,175.9,Success
+232,232,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 2020 04:00 UTC",Atlas V | Payload,StatusActive,104.8,Success
+233,233,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 1991 04:00 UTC",Atlas V | Payload,StatusActive,182.8,Success
+234,234,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1999 04:00 UTC",Falcon 9 | Payload,StatusActive,58.5,Success
+235,235,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Aug 15, 2015 04:00 UTC",Falcon 9 | Payload,StatusActive,77.1,Success
+236,236,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 1976 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+237,237,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 2007 04:00 UTC",Soyuz 2 | Payload,StatusActive,62.6,Success
+238,238,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 2012 04:00 UTC",Atlas V | Payload,StatusActive,,Failure
+239,239,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 1974 04:00 UTC",Falcon 9 | Payload,StatusActive,40.8,Success
+240,240,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 1977 04:00 UTC",Falcon 9 | Payload,StatusActive,186.0,Success
+241,241,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 2002 04:00 UTC",Delta IV | Payload,StatusActive,198.6,Success
+242,242,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 2017 04:00 UTC",Delta IV | Payload,StatusActive,56.8,Success
+243,243,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Feb 15, 1995 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+244,244,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 1976 04:00 UTC",Delta IV | Payload,StatusActive,147.7,Success
+245,245,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 15, 2011 04:00 UTC",Falcon 9 | Payload,StatusActive,154.6,Success
+246,246,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Jan 15, 2015 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+247,247,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 1963 04:00 UTC",Delta IV | Payload,StatusActive,57.3,Success
+248,248,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 1961 04:00 UTC",Delta IV | Payload,StatusActive,179.2,Success
+249,249,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 2012 04:00 UTC",Atlas V | Payload,StatusActive,160.7,Success
+250,250,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 1978 04:00 UTC",Delta IV | Payload,StatusActive,81.3,Failure
+251,251,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 15, 1986 04:00 UTC",Falcon 9 | Payload,StatusActive,192.7,Success
+252,252,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Feb 15, 1990 04:00 UTC",Ariane 5 | Payload,StatusActive,39.4,Success
+253,253,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1963 04:00 UTC",Ariane 5 | Payload,StatusActive,44.2,Success
+254,254,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 15, 1974 04:00 UTC",Ariane 5 | Payload,StatusActive,188.8,Success
+255,255,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 2002 04:00 UTC",Ariane 5 | Payload,StatusActive,68.6,Failure
+256,256,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 15, 2006 04:00 UTC",Delta IV | Payload,StatusActive,47.4,Success
+257,257,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 2015 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+258,258,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 2020 04:00 UTC",Delta IV | Payload,StatusActive,32.0,Success
+259,259,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 2021 04:00 UTC",Soyuz 2 | Payload,StatusActive,176.3,Success
+260,260,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 1991 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+261,261,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Apr 15, 2006 04:00 UTC",Atlas V | Payload,StatusActive,150.5,Success
+262,262,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 1988 04:00 UTC",Delta IV | Payload,StatusActive,181.9,Success
+263,263,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1968 04:00 UTC",Atlas V | Payload,StatusActive,61.8,Success
+264,264,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 2000 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+265,265,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 15, 2006 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+266,266,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 1982 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+267,267,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 15, 2008 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+268,268,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 1957 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+269,269,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Mar 15, 1974 04:00 UTC",Atlas V | Payload,StatusActive,184.6,Failure
+270,270,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1963 04:00 UTC",Ariane 5 | Payload,StatusActive,64.8,Success
+271,271,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1957 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+272,272,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Aug 15, 1982 04:00 UTC",Falcon 9 | Payload,StatusActive,53.3,Failure
+273,273,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 1995 04:00 UTC",Ariane 5 | Payload,StatusActive,195.0,Success
+274,274,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 15, 1999 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+275,275,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 2016 04:00 UTC",Falcon 9 | Payload,StatusActive,198.5,Success
+276,276,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 2006 04:00 UTC",Soyuz 2 | Payload,StatusActive,25.0,Success
+277,277,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 1966 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+278,278,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 1988 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+279,279,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Jan 15, 2014 04:00 UTC",Ariane 5 | Payload,StatusActive,120.3,Success
+280,280,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 1977 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+281,281,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Mar 15, 1966 04:00 UTC",Falcon 9 | Payload,StatusActive,108.5,Success
+282,282,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1971 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+283,283,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 1976 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+284,284,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 1970 04:00 UTC",Delta IV | Payload,StatusActive,137.2,Success
+285,285,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 2011 04:00 UTC",Soyuz 2 | Payload,StatusActive,162.4,Success
+286,286,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Feb 15, 2002 04:00 UTC",Soyuz 2 | Payload,StatusActive,121.8,Success
+287,287,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 1962 04:00 UTC",Atlas V | Payload,StatusActive,196.0,Success
+288,288,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 2021 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+289,289,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Feb 15, 2006 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+290,290,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jan 15, 2011 04:00 UTC",Falcon 9 | Payload,StatusActive,139.4,Success
+291,291,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Dec 15, 2003 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+292,292,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 2004 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+293,293,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1999 04:00 UTC",Soyuz 2 | Payload,StatusActive,56.2,Success
+294,294,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jun 15, 1981 04:00 UTC",Atlas V | Payload,StatusActive,120.4,Success
+295,295,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 2013 04:00 UTC",Delta IV | Payload,StatusActive,182.0,Failure
+296,296,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Dec 15, 1969 04:00 UTC",Ariane 5 | Payload,StatusActive,,Failure
+297,297,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 1997 04:00 UTC",Delta IV | Payload,StatusActive,123.0,Success
+298,298,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Feb 15, 1984 04:00 UTC",Falcon 9 | Payload,StatusActive,135.4,Success
+299,299,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 2016 04:00 UTC",Delta IV | Payload,StatusActive,,Failure
+300,300,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 1964 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+301,301,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 2000 04:00 UTC",Ariane 5 | Payload,StatusActive,54.6,Success
+302,302,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 1957 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+303,303,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 1984 04:00 UTC",Soyuz 2 | Payload,StatusActive,93.2,Success
+304,304,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 2007 04:00 UTC",Ariane 5 | Payload,StatusActive,80.0,Success
+305,305,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 1986 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+306,306,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 1975 04:00 UTC",Ariane 5 | Payload,StatusActive,56.6,Success
+307,307,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 2020 04:00 UTC",Atlas V | Payload,StatusActive,101.4,Success
+308,308,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 2001 04:00 UTC",Ariane 5 | Payload,StatusActive,34.5,Success
+309,309,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 2003 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+310,310,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 15, 2003 04:00 UTC",Falcon 9 | Payload,StatusActive,84.3,Success
+311,311,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Aug 15, 1959 04:00 UTC",Ariane 5 | Payload,StatusActive,193.9,Success
+312,312,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 2007 04:00 UTC",Delta IV | Payload,StatusActive,39.4,Success
+313,313,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 1997 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+314,314,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 2005 04:00 UTC",Falcon 9 | Payload,StatusActive,34.3,Success
+315,315,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jan 15, 1962 04:00 UTC",Falcon 9 | Payload,StatusActive,26.0,Success
+316,316,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Apr 15, 1985 04:00 UTC",Soyuz 2 | Payload,StatusActive,120.3,Success
+317,317,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1957 04:00 UTC",Atlas V | Payload,StatusActive,100.3,Failure
+318,318,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 2017 04:00 UTC",Delta IV | Payload,StatusActive,169.2,Success
+319,319,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Feb 15, 1966 04:00 UTC",Ariane 5 | Payload,StatusActive,170.2,Success
+320,320,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 2008 04:00 UTC",Atlas V | Payload,StatusActive,172.4,Success
+321,321,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 1976 04:00 UTC",Soyuz 2 | Payload,StatusActive,81.6,Success
+322,322,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Mar 15, 1976 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+323,323,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 1974 04:00 UTC",Soyuz 2 | Payload,StatusActive,129.7,Success
+324,324,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 1996 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+325,325,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Dec 15, 1967 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+326,326,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1992 04:00 UTC",Soyuz 2 | Payload,StatusActive,116.3,Success
+327,327,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 1968 04:00 UTC",Ariane 5 | Payload,StatusActive,156.2,Success
+328,328,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 1968 04:00 UTC",Ariane 5 | Payload,StatusActive,91.6,Success
+329,329,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1964 04:00 UTC",Soyuz 2 | Payload,StatusActive,74.6,Success
+330,330,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jan 15, 1996 04:00 UTC",Soyuz 2 | Payload,StatusActive,129.1,Success
+331,331,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 1968 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+332,332,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 1966 04:00 UTC",Atlas V | Payload,StatusActive,111.0,Failure
+333,333,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 2018 04:00 UTC",Atlas V | Payload,StatusActive,119.7,Success
+334,334,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 2010 04:00 UTC",Delta IV | Payload,StatusActive,49.5,Success
+335,335,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 1965 04:00 UTC",Ariane 5 | Payload,StatusActive,147.0,Failure
+336,336,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 1986 04:00 UTC",Soyuz 2 | Payload,StatusActive,33.5,Success
+337,337,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 2020 04:00 UTC",Ariane 5 | Payload,StatusActive,160.8,Success
+338,338,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Mar 15, 1980 04:00 UTC",Falcon 9 | Payload,StatusActive,,Failure
+339,339,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 1971 04:00 UTC",Atlas V | Payload,StatusActive,66.0,Success
+340,340,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 2007 04:00 UTC",Atlas V | Payload,StatusActive,54.4,Success
+341,341,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Apr 15, 1996 04:00 UTC",Delta IV | Payload,StatusActive,103.4,Success
+342,342,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Apr 15, 1957 04:00 UTC",Soyuz 2 | Payload,StatusActive,36.1,Success
+343,343,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 2010 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+344,344,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Aug 15, 2005 04:00 UTC",Delta IV | Payload,StatusActive,,Failure
+345,345,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 2002 04:00 UTC",Soyuz 2 | Payload,StatusActive,90.2,Success
+346,346,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Apr 15, 1994 04:00 UTC",Soyuz 2 | Payload,StatusActive,49.6,Failure
+347,347,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 1961 04:00 UTC",Atlas V | Payload,StatusActive,71.0,Success
+348,348,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jun 15, 2018 04:00 UTC",Soyuz 2 | Payload,StatusActive,56.5,Success
+349,349,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 2009 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+350,350,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 1993 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+351,351,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 1969 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+352,352,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 1981 04:00 UTC",Soyuz 2 | Payload,StatusActive,181.8,Success
+353,353,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 1996 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+354,354,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Apr 15, 1998 04:00 UTC",Ariane 5 | Payload,StatusActive,128.0,Failure
+355,355,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri May 15, 2022 04:00 UTC",Delta IV | Payload,StatusActive,71.2,Success
+356,356,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jun 15, 1982 04:00 UTC",Delta IV | Payload,StatusActive,58.8,Success
+357,357,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 15, 1983 04:00 UTC",Delta IV | Payload,StatusActive,68.1,Success
+358,358,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 2008 04:00 UTC",Delta IV | Payload,StatusActive,105.5,Success
+359,359,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 15, 1966 04:00 UTC",Delta IV | Payload,StatusActive,68.6,Success
+360,360,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1988 04:00 UTC",Delta IV | Payload,StatusActive,129.7,Success
+361,361,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 1961 04:00 UTC",Atlas V | Payload,StatusActive,22.6,Success
+362,362,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 1996 04:00 UTC",Delta IV | Payload,StatusActive,126.6,Success
+363,363,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 1970 04:00 UTC",Falcon 9 | Payload,StatusActive,75.6,Failure
+364,364,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 2011 04:00 UTC",Atlas V | Payload,StatusActive,123.6,Success
+365,365,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 15, 2008 04:00 UTC",Ariane 5 | Payload,StatusActive,113.9,Failure
+366,366,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 1988 04:00 UTC",Delta IV | Payload,StatusActive,149.9,Success
+367,367,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 1993 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+368,368,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Mar 15, 2010 04:00 UTC",Atlas V | Payload,StatusActive,74.9,Success
+369,369,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Aug 15, 2001 04:00 UTC",Atlas V | Payload,StatusActive,,Failure
+370,370,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 1980 04:00 UTC",Ariane 5 | Payload,StatusActive,168.1,Success
+371,371,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 2019 04:00 UTC",Atlas V | Payload,StatusActive,100.2,Failure
+372,372,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Aug 15, 1977 04:00 UTC",Ariane 5 | Payload,StatusActive,133.4,Success
+373,373,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 1963 04:00 UTC",Soyuz 2 | Payload,StatusActive,65.3,Success
+374,374,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 2015 04:00 UTC",Delta IV | Payload,StatusActive,44.6,Success
+375,375,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 1958 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+376,376,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 2001 04:00 UTC",Falcon 9 | Payload,StatusActive,196.1,Success
+377,377,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 2001 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+378,378,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 2019 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+379,379,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 1963 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+380,380,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 1977 04:00 UTC",Ariane 5 | Payload,StatusActive,175.0,Success
+381,381,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 1969 04:00 UTC",Ariane 5 | Payload,StatusActive,28.1,Success
+382,382,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Jan 15, 1982 04:00 UTC",Ariane 5 | Payload,StatusActive,84.4,Success
+383,383,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 1996 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+384,384,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Jan 15, 1992 04:00 UTC",Atlas V | Payload,StatusActive,65.9,Failure
+385,385,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 1960 04:00 UTC",Ariane 5 | Payload,StatusActive,177.4,Success
+386,386,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 2017 04:00 UTC",Ariane 5 | Payload,StatusActive,39.5,Success
+387,387,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 1960 04:00 UTC",Falcon 9 | Payload,StatusActive,142.6,Success
+388,388,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 15, 2017 04:00 UTC",Delta IV | Payload,StatusActive,120.2,Success
+389,389,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1980 04:00 UTC",Falcon 9 | Payload,StatusActive,95.5,Failure
+390,390,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1966 04:00 UTC",Atlas V | Payload,StatusActive,152.8,Success
+391,391,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 1984 04:00 UTC",Soyuz 2 | Payload,StatusActive,159.5,Success
+392,392,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Apr 15, 1982 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+393,393,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 2012 04:00 UTC",Ariane 5 | Payload,StatusActive,185.7,Success
+394,394,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jul 15, 1988 04:00 UTC",Atlas V | Payload,StatusActive,35.1,Success
+395,395,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 2016 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+396,396,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 1977 04:00 UTC",Soyuz 2 | Payload,StatusActive,176.6,Success
+397,397,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 2005 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+398,398,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 2007 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+399,399,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 1997 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+400,400,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1970 04:00 UTC",Delta IV | Payload,StatusActive,125.2,Success
+401,401,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 1986 04:00 UTC",Atlas V | Payload,StatusActive,141.6,Success
+402,402,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1973 04:00 UTC",Atlas V | Payload,StatusActive,188.7,Success
+403,403,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 2000 04:00 UTC",Falcon 9 | Payload,StatusActive,93.9,Failure
+404,404,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 1983 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+405,405,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 1981 04:00 UTC",Ariane 5 | Payload,StatusActive,44.7,Success
+406,406,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Dec 15, 1985 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+407,407,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 2001 04:00 UTC",Atlas V | Payload,StatusActive,188.6,Success
+408,408,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Aug 15, 1992 04:00 UTC",Delta IV | Payload,StatusActive,194.5,Success
+409,409,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1993 04:00 UTC",Falcon 9 | Payload,StatusActive,44.8,Failure
+410,410,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 1970 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+411,411,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1967 04:00 UTC",Ariane 5 | Payload,StatusActive,115.6,Success
+412,412,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 2002 04:00 UTC",Ariane 5 | Payload,StatusActive,189.8,Success
+413,413,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Feb 15, 1990 04:00 UTC",Delta IV | Payload,StatusActive,187.6,Success
+414,414,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 1986 04:00 UTC",Delta IV | Payload,StatusActive,162.8,Success
+415,415,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 2010 04:00 UTC",Ariane 5 | Payload,StatusActive,97.7,Success
+416,416,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 2010 04:00 UTC",Delta IV | Payload,StatusActive,39.0,Success
+417,417,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 2019 04:00 UTC",Delta IV | Payload,StatusActive,42.7,Success
+418,418,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 2012 04:00 UTC",Soyuz 2 | Payload,StatusActive,46.5,Success
+419,419,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1983 04:00 UTC",Delta IV | Payload,StatusActive,139.9,Success
+420,420,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 1994 04:00 UTC",Soyuz 2 | Payload,StatusActive,54.8,Success
+421,421,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1973 04:00 UTC",Soyuz 2 | Payload,StatusActive,35.7,Failure
+422,422,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 1969 04:00 UTC",Falcon 9 | Payload,StatusActive,176.5,Success
+423,423,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 1998 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+424,424,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 1993 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+425,425,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Apr 15, 1962 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+426,426,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 1994 04:00 UTC",Soyuz 2 | Payload,StatusActive,80.5,Success
+427,427,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1974 04:00 UTC",Soyuz 2 | Payload,StatusActive,80.6,Success
+428,428,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 1981 04:00 UTC",Ariane 5 | Payload,StatusActive,162.8,Success
+429,429,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 2012 04:00 UTC",Soyuz 2 | Payload,StatusActive,171.7,Success
+430,430,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1957 04:00 UTC",Atlas V | Payload,StatusActive,36.8,Success
+431,431,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 1986 04:00 UTC",Atlas V | Payload,StatusActive,121.3,Success
+432,432,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1958 04:00 UTC",Ariane 5 | Payload,StatusActive,196.8,Success
+433,433,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 1986 04:00 UTC",Atlas V | Payload,StatusActive,49.6,Success
+434,434,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 1980 04:00 UTC",Ariane 5 | Payload,StatusActive,57.9,Success
+435,435,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 1983 04:00 UTC",Falcon 9 | Payload,StatusActive,135.2,Success
+436,436,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 15, 1985 04:00 UTC",Atlas V | Payload,StatusActive,168.8,Success
+437,437,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 1999 04:00 UTC",Ariane 5 | Payload,StatusActive,146.7,Success
+438,438,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 1996 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+439,439,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 1966 04:00 UTC",Atlas V | Payload,StatusActive,53.9,Success
+440,440,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 1991 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+441,441,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 15, 1966 04:00 UTC",Atlas V | Payload,StatusActive,183.4,Success
+442,442,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Apr 15, 1971 04:00 UTC",Falcon 9 | Payload,StatusActive,179.4,Success
+443,443,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 1967 04:00 UTC",Atlas V | Payload,StatusActive,158.1,Success
+444,444,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 2008 04:00 UTC",Soyuz 2 | Payload,StatusActive,98.1,Success
+445,445,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 1995 04:00 UTC",Atlas V | Payload,StatusActive,95.8,Success
+446,446,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Feb 15, 2010 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+447,447,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1987 04:00 UTC",Ariane 5 | Payload,StatusActive,28.9,Success
+448,448,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 2020 04:00 UTC",Ariane 5 | Payload,StatusActive,65.0,Success
+449,449,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 2022 04:00 UTC",Soyuz 2 | Payload,StatusActive,131.6,Success
+450,450,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 1982 04:00 UTC",Ariane 5 | Payload,StatusActive,30.7,Success
+451,451,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 1982 04:00 UTC",Ariane 5 | Payload,StatusActive,38.7,Success
+452,452,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 1970 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+453,453,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 1960 04:00 UTC",Ariane 5 | Payload,StatusActive,50.8,Success
+454,454,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 15, 1969 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+455,455,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 2017 04:00 UTC",Ariane 5 | Payload,StatusActive,187.8,Success
+456,456,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Aug 15, 2004 04:00 UTC",Falcon 9 | Payload,StatusActive,172.8,Success
+457,457,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 2012 04:00 UTC",Soyuz 2 | Payload,StatusActive,166.8,Success
+458,458,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jan 15, 2001 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+459,459,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 2006 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+460,460,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 2010 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+461,461,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 2022 04:00 UTC",Delta IV | Payload,StatusActive,89.0,Success
+462,462,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 2014 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+463,463,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 2001 04:00 UTC",Ariane 5 | Payload,StatusActive,150.1,Success
+464,464,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 1987 04:00 UTC",Falcon 9 | Payload,StatusActive,74.4,Success
+465,465,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 15, 1974 04:00 UTC",Delta IV | Payload,StatusActive,78.3,Success
+466,466,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1996 04:00 UTC",Ariane 5 | Payload,StatusActive,34.0,Success
+467,467,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 2007 04:00 UTC",Atlas V | Payload,StatusActive,52.3,Success
+468,468,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 15, 2004 04:00 UTC",Falcon 9 | Payload,StatusActive,70.3,Success
+469,469,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 1981 04:00 UTC",Soyuz 2 | Payload,StatusActive,109.2,Success
+470,470,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 1963 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+471,471,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Dec 15, 1974 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+472,472,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 1982 04:00 UTC",Atlas V | Payload,StatusActive,190.8,Success
+473,473,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 2017 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+474,474,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1999 04:00 UTC",Delta IV | Payload,StatusActive,127.9,Success
+475,475,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 2005 04:00 UTC",Ariane 5 | Payload,StatusActive,91.6,Success
+476,476,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 2011 04:00 UTC",Falcon 9 | Payload,StatusActive,74.6,Success
+477,477,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Dec 15, 1962 04:00 UTC",Ariane 5 | Payload,StatusActive,73.7,Success
+478,478,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1980 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+479,479,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 15, 1984 04:00 UTC",Atlas V | Payload,StatusActive,138.6,Success
+480,480,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 1996 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+481,481,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 2002 04:00 UTC",Atlas V | Payload,StatusActive,150.3,Success
+482,482,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 2006 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+483,483,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 1988 04:00 UTC",Falcon 9 | Payload,StatusActive,110.3,Success
+484,484,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 1984 04:00 UTC",Falcon 9 | Payload,StatusActive,53.1,Success
+485,485,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Apr 15, 2018 04:00 UTC",Falcon 9 | Payload,StatusActive,104.8,Success
+486,486,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Feb 15, 1996 04:00 UTC",Atlas V | Payload,StatusActive,50.7,Success
+487,487,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Feb 15, 1979 04:00 UTC",Ariane 5 | Payload,StatusActive,147.6,Success
+488,488,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Dec 15, 1996 04:00 UTC",Falcon 9 | Payload,StatusActive,54.1,Success
+489,489,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Dec 15, 1996 04:00 UTC",Soyuz 2 | Payload,StatusActive,131.4,Success
+490,490,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 1960 04:00 UTC",Delta IV | Payload,StatusActive,20.6,Success
+491,491,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 1958 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+492,492,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 2016 04:00 UTC",Soyuz 2 | Payload,StatusActive,136.6,Success
+493,493,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Apr 15, 2019 04:00 UTC",Falcon 9 | Payload,StatusActive,44.7,Success
+494,494,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 1996 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+495,495,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 1974 04:00 UTC",Atlas V | Payload,StatusActive,144.8,Success
+496,496,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 1962 04:00 UTC",Delta IV | Payload,StatusActive,154.9,Success
+497,497,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1972 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+498,498,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1976 04:00 UTC",Ariane 5 | Payload,StatusActive,196.4,Success
+499,499,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 2016 04:00 UTC",Soyuz 2 | Payload,StatusActive,51.8,Success
+500,500,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 2002 04:00 UTC",Falcon 9 | Payload,StatusActive,191.6,Failure
+501,501,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Mar 15, 1984 04:00 UTC",Soyuz 2 | Payload,StatusActive,20.5,Success
+502,502,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 1971 04:00 UTC",Delta IV | Payload,StatusActive,102.7,Success
+503,503,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1965 04:00 UTC",Atlas V | Payload,StatusActive,188.9,Success
+504,504,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 2015 04:00 UTC",Ariane 5 | Payload,StatusActive,123.3,Success
+505,505,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 1982 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+506,506,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1999 04:00 UTC",Ariane 5 | Payload,StatusActive,159.2,Success
+507,507,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 2011 04:00 UTC",Ariane 5 | Payload,StatusActive,189.3,Failure
+508,508,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1997 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+509,509,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jan 15, 1980 04:00 UTC",Ariane 5 | Payload,StatusActive,56.3,Success
+510,510,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1981 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+511,511,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 15, 1968 04:00 UTC",Atlas V | Payload,StatusActive,121.9,Success
+512,512,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 2009 04:00 UTC",Atlas V | Payload,StatusActive,116.5,Success
+513,513,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 2004 04:00 UTC",Falcon 9 | Payload,StatusActive,80.6,Success
+514,514,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 1961 04:00 UTC",Delta IV | Payload,StatusActive,130.3,Success
+515,515,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 2021 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+516,516,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Aug 15, 1957 04:00 UTC",Soyuz 2 | Payload,StatusActive,46.7,Success
+517,517,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 2017 04:00 UTC",Atlas V | Payload,StatusActive,135.8,Success
+518,518,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Dec 15, 1978 04:00 UTC",Delta IV | Payload,StatusActive,42.0,Success
+519,519,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Aug 15, 2002 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+520,520,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jul 15, 1979 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+521,521,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Dec 15, 1960 04:00 UTC",Soyuz 2 | Payload,StatusActive,180.8,Success
+522,522,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 2001 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+523,523,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Dec 15, 1975 04:00 UTC",Atlas V | Payload,StatusActive,196.4,Success
+524,524,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jan 15, 1975 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+525,525,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 1974 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+526,526,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 2022 04:00 UTC",Atlas V | Payload,StatusActive,82.7,Failure
+527,527,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 15, 1979 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+528,528,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1967 04:00 UTC",Soyuz 2 | Payload,StatusActive,149.0,Success
+529,529,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1966 04:00 UTC",Delta IV | Payload,StatusActive,110.2,Success
+530,530,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 1986 04:00 UTC",Atlas V | Payload,StatusActive,,Failure
+531,531,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 1963 04:00 UTC",Falcon 9 | Payload,StatusActive,157.2,Success
+532,532,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Aug 15, 1992 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+533,533,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 1981 04:00 UTC",Falcon 9 | Payload,StatusActive,181.0,Success
+534,534,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1994 04:00 UTC",Falcon 9 | Payload,StatusActive,94.4,Success
+535,535,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 1977 04:00 UTC",Falcon 9 | Payload,StatusActive,116.9,Success
+536,536,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 1999 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+537,537,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 1986 04:00 UTC",Ariane 5 | Payload,StatusActive,127.4,Success
+538,538,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1975 04:00 UTC",Ariane 5 | Payload,StatusActive,111.3,Success
+539,539,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Feb 15, 1991 04:00 UTC",Delta IV | Payload,StatusActive,60.8,Success
+540,540,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 1991 04:00 UTC",Soyuz 2 | Payload,StatusActive,198.3,Success
+541,541,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 1983 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+542,542,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 2010 04:00 UTC",Soyuz 2 | Payload,StatusActive,196.8,Success
+543,543,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jul 15, 2015 04:00 UTC",Atlas V | Payload,StatusActive,102.7,Success
+544,544,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 15, 1962 04:00 UTC",Ariane 5 | Payload,StatusActive,145.0,Success
+545,545,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 2019 04:00 UTC",Atlas V | Payload,StatusActive,140.8,Success
+546,546,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jan 15, 1985 04:00 UTC",Soyuz 2 | Payload,StatusActive,162.8,Success
+547,547,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Apr 15, 2008 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+548,548,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Feb 15, 2000 04:00 UTC",Atlas V | Payload,StatusActive,155.0,Success
+549,549,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Jul 15, 2011 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+550,550,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Feb 15, 1973 04:00 UTC",Delta IV | Payload,StatusActive,54.5,Success
+551,551,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Feb 15, 2004 04:00 UTC",Ariane 5 | Payload,StatusActive,163.4,Success
+552,552,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 1984 04:00 UTC",Soyuz 2 | Payload,StatusActive,119.3,Success
+553,553,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 2007 04:00 UTC",Ariane 5 | Payload,StatusActive,106.6,Success
+554,554,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Dec 15, 1981 04:00 UTC",Delta IV | Payload,StatusActive,77.1,Success
+555,555,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1993 04:00 UTC",Atlas V | Payload,StatusActive,165.1,Success
+556,556,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 2022 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+557,557,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Aug 15, 1965 04:00 UTC",Soyuz 2 | Payload,StatusActive,103.0,Success
+558,558,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 1989 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+559,559,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 1976 04:00 UTC",Falcon 9 | Payload,StatusActive,86.2,Success
+560,560,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Dec 15, 2008 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+561,561,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 1996 04:00 UTC",Soyuz 2 | Payload,StatusActive,136.3,Success
+562,562,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 1970 04:00 UTC",Atlas V | Payload,StatusActive,168.6,Success
+563,563,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jun 15, 1993 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+564,564,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 2008 04:00 UTC",Falcon 9 | Payload,StatusActive,122.3,Success
+565,565,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1960 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+566,566,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 15, 1963 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+567,567,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 1996 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+568,568,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri May 15, 1980 04:00 UTC",Atlas V | Payload,StatusActive,,Failure
+569,569,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 2022 04:00 UTC",Falcon 9 | Payload,StatusActive,122.3,Success
+570,570,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Feb 15, 2000 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+571,571,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 15, 2013 04:00 UTC",Falcon 9 | Payload,StatusActive,191.0,Success
+572,572,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Aug 15, 2013 04:00 UTC",Soyuz 2 | Payload,StatusActive,90.6,Failure
+573,573,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 15, 1968 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+574,574,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 1994 04:00 UTC",Ariane 5 | Payload,StatusActive,82.4,Success
+575,575,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Dec 15, 1997 04:00 UTC",Ariane 5 | Payload,StatusActive,173.3,Success
+576,576,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 2010 04:00 UTC",Atlas V | Payload,StatusActive,122.8,Success
+577,577,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 2007 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+578,578,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 2015 04:00 UTC",Falcon 9 | Payload,StatusActive,,Failure
+579,579,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Dec 15, 1964 04:00 UTC",Ariane 5 | Payload,StatusActive,187.1,Success
+580,580,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 2003 04:00 UTC",Soyuz 2 | Payload,StatusActive,194.7,Success
+581,581,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 1984 04:00 UTC",Falcon 9 | Payload,StatusActive,64.7,Success
+582,582,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Dec 15, 1983 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+583,583,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 1990 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+584,584,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 2001 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+585,585,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 2015 04:00 UTC",Delta IV | Payload,StatusActive,142.7,Success
+586,586,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jan 15, 1999 04:00 UTC",Ariane 5 | Payload,StatusActive,146.5,Success
+587,587,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 1986 04:00 UTC",Delta IV | Payload,StatusActive,113.6,Success
+588,588,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1988 04:00 UTC",Ariane 5 | Payload,StatusActive,40.0,Success
+589,589,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 1972 04:00 UTC",Delta IV | Payload,StatusActive,26.8,Failure
+590,590,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 1994 04:00 UTC",Atlas V | Payload,StatusActive,161.1,Success
+591,591,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 2018 04:00 UTC",Atlas V | Payload,StatusActive,47.8,Success
+592,592,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Apr 15, 2019 04:00 UTC",Falcon 9 | Payload,StatusActive,140.8,Failure
+593,593,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 2014 04:00 UTC",Delta IV | Payload,StatusActive,51.2,Success
+594,594,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 2003 04:00 UTC",Falcon 9 | Payload,StatusActive,80.2,Success
+595,595,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 1998 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+596,596,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 1994 04:00 UTC",Falcon 9 | Payload,StatusActive,64.6,Success
+597,597,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 2009 04:00 UTC",Atlas V | Payload,StatusActive,187.1,Success
+598,598,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 15, 2007 04:00 UTC",Atlas V | Payload,StatusActive,147.5,Success
+599,599,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 2019 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+600,600,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 1962 04:00 UTC",Falcon 9 | Payload,StatusActive,90.4,Success
+601,601,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 1966 04:00 UTC",Falcon 9 | Payload,StatusActive,196.6,Success
+602,602,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 1990 04:00 UTC",Delta IV | Payload,StatusActive,34.4,Success
+603,603,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 2016 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+604,604,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 1991 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+605,605,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri May 15, 1965 04:00 UTC",Delta IV | Payload,StatusActive,156.5,Failure
+606,606,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 1989 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+607,607,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Mar 15, 1961 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+608,608,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 2013 04:00 UTC",Falcon 9 | Payload,StatusActive,133.4,Success
+609,609,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Mar 15, 2003 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+610,610,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri May 15, 1963 04:00 UTC",Atlas V | Payload,StatusActive,120.9,Success
+611,611,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jun 15, 1974 04:00 UTC",Atlas V | Payload,StatusActive,174.3,Success
+612,612,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 2000 04:00 UTC",Falcon 9 | Payload,StatusActive,118.5,Success
+613,613,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 1985 04:00 UTC",Ariane 5 | Payload,StatusActive,125.8,Success
+614,614,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 1984 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+615,615,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 1973 04:00 UTC",Soyuz 2 | Payload,StatusActive,49.0,Success
+616,616,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Aug 15, 1968 04:00 UTC",Atlas V | Payload,StatusActive,114.8,Success
+617,617,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 1964 04:00 UTC",Atlas V | Payload,StatusActive,104.5,Success
+618,618,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 1992 04:00 UTC",Atlas V | Payload,StatusActive,100.9,Success
+619,619,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 1973 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Failure
+620,620,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 2000 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+621,621,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 2016 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+622,622,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Mar 15, 1990 04:00 UTC",Atlas V | Payload,StatusActive,,Failure
+623,623,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Mar 15, 1978 04:00 UTC",Ariane 5 | Payload,StatusActive,194.6,Success
+624,624,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 1984 04:00 UTC",Atlas V | Payload,StatusActive,,Failure
+625,625,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 1978 04:00 UTC",Delta IV | Payload,StatusActive,,Failure
+626,626,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 2008 04:00 UTC",Falcon 9 | Payload,StatusActive,62.4,Success
+627,627,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 1992 04:00 UTC",Delta IV | Payload,StatusActive,71.1,Success
+628,628,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 1969 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+629,629,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1966 04:00 UTC",Ariane 5 | Payload,StatusActive,98.8,Success
+630,630,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 1981 04:00 UTC",Atlas V | Payload,StatusActive,103.2,Success
+631,631,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Apr 15, 2009 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+632,632,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 1985 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+633,633,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 1961 04:00 UTC",Ariane 5 | Payload,StatusActive,168.1,Success
+634,634,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 1966 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+635,635,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 1995 04:00 UTC",Delta IV | Payload,StatusActive,168.3,Success
+636,636,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Feb 15, 2021 04:00 UTC",Soyuz 2 | Payload,StatusActive,82.0,Success
+637,637,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri May 15, 1983 04:00 UTC",Soyuz 2 | Payload,StatusActive,44.3,Success
+638,638,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1978 04:00 UTC",Atlas V | Payload,StatusActive,44.7,Success
+639,639,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1969 04:00 UTC",Soyuz 2 | Payload,StatusActive,146.1,Success
+640,640,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 1996 04:00 UTC",Atlas V | Payload,StatusActive,20.6,Success
+641,641,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Aug 15, 2003 04:00 UTC",Falcon 9 | Payload,StatusActive,186.5,Success
+642,642,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1971 04:00 UTC",Soyuz 2 | Payload,StatusActive,36.2,Success
+643,643,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 1998 04:00 UTC",Ariane 5 | Payload,StatusActive,123.0,Success
+644,644,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1984 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+645,645,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 2003 04:00 UTC",Ariane 5 | Payload,StatusActive,,Failure
+646,646,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 1989 04:00 UTC",Delta IV | Payload,StatusActive,52.2,Success
+647,647,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 1972 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+648,648,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1996 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+649,649,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 1985 04:00 UTC",Delta IV | Payload,StatusActive,118.8,Success
+650,650,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 15, 1986 04:00 UTC",Soyuz 2 | Payload,StatusActive,193.0,Success
+651,651,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 2014 04:00 UTC",Ariane 5 | Payload,StatusActive,174.0,Success
+652,652,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 2003 04:00 UTC",Falcon 9 | Payload,StatusActive,137.4,Success
+653,653,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 1974 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+654,654,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 2007 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+655,655,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1992 04:00 UTC",Soyuz 2 | Payload,StatusActive,183.5,Success
+656,656,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 2010 04:00 UTC",Delta IV | Payload,StatusActive,,Failure
+657,657,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 2022 04:00 UTC",Soyuz 2 | Payload,StatusActive,58.2,Success
+658,658,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 1976 04:00 UTC",Ariane 5 | Payload,StatusActive,113.3,Success
+659,659,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 2011 04:00 UTC",Ariane 5 | Payload,StatusActive,123.1,Success
+660,660,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 2011 04:00 UTC",Ariane 5 | Payload,StatusActive,73.1,Failure
+661,661,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1957 04:00 UTC",Falcon 9 | Payload,StatusActive,,Failure
+662,662,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1975 04:00 UTC",Atlas V | Payload,StatusActive,92.6,Success
+663,663,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri May 15, 1983 04:00 UTC",Delta IV | Payload,StatusActive,103.9,Success
+664,664,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1994 04:00 UTC",Falcon 9 | Payload,StatusActive,153.5,Failure
+665,665,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1996 04:00 UTC",Soyuz 2 | Payload,StatusActive,170.3,Success
+666,666,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 1991 04:00 UTC",Falcon 9 | Payload,StatusActive,121.7,Success
+667,667,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1958 04:00 UTC",Soyuz 2 | Payload,StatusActive,66.3,Success
+668,668,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Dec 15, 2000 04:00 UTC",Atlas V | Payload,StatusActive,64.1,Success
+669,669,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Feb 15, 1994 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+670,670,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Dec 15, 1964 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+671,671,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 1992 04:00 UTC",Soyuz 2 | Payload,StatusActive,74.3,Success
+672,672,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 1958 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+673,673,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 2021 04:00 UTC",Delta IV | Payload,StatusActive,42.0,Success
+674,674,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 2022 04:00 UTC",Atlas V | Payload,StatusActive,82.5,Success
+675,675,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 1989 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+676,676,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 1987 04:00 UTC",Atlas V | Payload,StatusActive,97.2,Success
+677,677,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 2006 04:00 UTC",Delta IV | Payload,StatusActive,69.7,Success
+678,678,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1969 04:00 UTC",Atlas V | Payload,StatusActive,50.9,Success
+679,679,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 2016 04:00 UTC",Falcon 9 | Payload,StatusActive,58.1,Success
+680,680,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 2002 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+681,681,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Jan 15, 1977 04:00 UTC",Atlas V | Payload,StatusActive,111.3,Success
+682,682,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 15, 1993 04:00 UTC",Ariane 5 | Payload,StatusActive,148.0,Success
+683,683,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Apr 15, 1995 04:00 UTC",Ariane 5 | Payload,StatusActive,154.9,Success
+684,684,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 2020 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+685,685,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 1976 04:00 UTC",Atlas V | Payload,StatusActive,158.9,Success
+686,686,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 1986 04:00 UTC",Falcon 9 | Payload,StatusActive,108.3,Success
+687,687,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 15, 2020 04:00 UTC",Atlas V | Payload,StatusActive,94.4,Success
+688,688,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 1979 04:00 UTC",Soyuz 2 | Payload,StatusActive,145.5,Success
+689,689,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 2009 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+690,690,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 2018 04:00 UTC",Atlas V | Payload,StatusActive,124.4,Success
+691,691,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 2007 04:00 UTC",Ariane 5 | Payload,StatusActive,175.7,Success
+692,692,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1987 04:00 UTC",Atlas V | Payload,StatusActive,180.7,Success
+693,693,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 15, 2001 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+694,694,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Dec 15, 2003 04:00 UTC",Ariane 5 | Payload,StatusActive,186.3,Success
+695,695,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Mar 15, 1958 04:00 UTC",Falcon 9 | Payload,StatusActive,70.4,Success
+696,696,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 1990 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+697,697,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 1998 04:00 UTC",Falcon 9 | Payload,StatusActive,184.9,Success
+698,698,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 2012 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+699,699,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 2020 04:00 UTC",Soyuz 2 | Payload,StatusActive,33.1,Success
+700,700,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 1981 04:00 UTC",Soyuz 2 | Payload,StatusActive,174.1,Success
+701,701,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jan 15, 1994 04:00 UTC",Falcon 9 | Payload,StatusActive,152.3,Success
+702,702,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 1997 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+703,703,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 1994 04:00 UTC",Delta IV | Payload,StatusActive,,Failure
+704,704,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 2016 04:00 UTC",Delta IV | Payload,StatusActive,38.8,Success
+705,705,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 1964 04:00 UTC",Falcon 9 | Payload,StatusActive,147.6,Success
+706,706,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 1960 04:00 UTC",Ariane 5 | Payload,StatusActive,59.7,Failure
+707,707,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 1978 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+708,708,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 15, 1995 04:00 UTC",Falcon 9 | Payload,StatusActive,119.0,Success
+709,709,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 2001 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+710,710,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 2021 04:00 UTC",Falcon 9 | Payload,StatusActive,198.9,Success
+711,711,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jan 15, 1985 04:00 UTC",Falcon 9 | Payload,StatusActive,59.2,Failure
+712,712,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1998 04:00 UTC",Ariane 5 | Payload,StatusActive,37.9,Success
+713,713,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 1970 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+714,714,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Apr 15, 1991 04:00 UTC",Falcon 9 | Payload,StatusActive,121.4,Success
+715,715,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 1972 04:00 UTC",Falcon 9 | Payload,StatusActive,64.0,Success
+716,716,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 1965 04:00 UTC",Soyuz 2 | Payload,StatusActive,88.8,Success
+717,717,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jun 15, 2001 04:00 UTC",Soyuz 2 | Payload,StatusActive,64.9,Success
+718,718,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 1981 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+719,719,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1973 04:00 UTC",Ariane 5 | Payload,StatusActive,21.6,Success
+720,720,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Jan 15, 1974 04:00 UTC",Falcon 9 | Payload,StatusActive,95.5,Success
+721,721,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 15, 2020 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+722,722,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 1980 04:00 UTC",Soyuz 2 | Payload,StatusActive,127.5,Success
+723,723,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jan 15, 1970 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+724,724,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 2017 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+725,725,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jun 15, 1995 04:00 UTC",Falcon 9 | Payload,StatusActive,68.3,Success
+726,726,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 2010 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+727,727,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1990 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+728,728,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 1959 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+729,729,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Aug 15, 1968 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+730,730,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 2021 04:00 UTC",Atlas V | Payload,StatusActive,95.9,Success
+731,731,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1988 04:00 UTC",Ariane 5 | Payload,StatusActive,78.2,Success
+732,732,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 1989 04:00 UTC",Atlas V | Payload,StatusActive,34.3,Success
+733,733,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 2015 04:00 UTC",Atlas V | Payload,StatusActive,154.8,Success
+734,734,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 1980 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+735,735,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1993 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+736,736,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 1970 04:00 UTC",Atlas V | Payload,StatusActive,120.8,Success
+737,737,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 1992 04:00 UTC",Delta IV | Payload,StatusActive,,Failure
+738,738,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 1983 04:00 UTC",Ariane 5 | Payload,StatusActive,186.9,Success
+739,739,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Jan 15, 2006 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+740,740,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 1979 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+741,741,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 15, 1965 04:00 UTC",Falcon 9 | Payload,StatusActive,82.9,Success
+742,742,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Jan 15, 1975 04:00 UTC",Atlas V | Payload,StatusActive,63.6,Success
+743,743,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 1980 04:00 UTC",Delta IV | Payload,StatusActive,83.1,Success
+744,744,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 1959 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+745,745,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 1959 04:00 UTC",Atlas V | Payload,StatusActive,91.8,Success
+746,746,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 2011 04:00 UTC",Delta IV | Payload,StatusActive,190.9,Success
+747,747,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Dec 15, 2012 04:00 UTC",Ariane 5 | Payload,StatusActive,166.8,Success
+748,748,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 1997 04:00 UTC",Delta IV | Payload,StatusActive,134.6,Success
+749,749,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 1981 04:00 UTC",Falcon 9 | Payload,StatusActive,111.0,Success
+750,750,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Jul 15, 2019 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+751,751,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 2002 04:00 UTC",Atlas V | Payload,StatusActive,82.1,Success
+752,752,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 2022 04:00 UTC",Atlas V | Payload,StatusActive,32.1,Success
+753,753,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 1977 04:00 UTC",Delta IV | Payload,StatusActive,154.9,Success
+754,754,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 2001 04:00 UTC",Atlas V | Payload,StatusActive,108.9,Success
+755,755,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 1962 04:00 UTC",Soyuz 2 | Payload,StatusActive,115.4,Success
+756,756,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 2007 04:00 UTC",Ariane 5 | Payload,StatusActive,30.8,Success
+757,757,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1966 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+758,758,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 1960 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+759,759,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1974 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+760,760,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 2005 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+761,761,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Aug 15, 1985 04:00 UTC",Soyuz 2 | Payload,StatusActive,197.0,Success
+762,762,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 2011 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+763,763,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Apr 15, 1971 04:00 UTC",Ariane 5 | Payload,StatusActive,197.5,Success
+764,764,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Aug 15, 1959 04:00 UTC",Atlas V | Payload,StatusActive,151.9,Success
+765,765,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 2019 04:00 UTC",Falcon 9 | Payload,StatusActive,127.6,Success
+766,766,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 2011 04:00 UTC",Falcon 9 | Payload,StatusActive,,Failure
+767,767,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri May 15, 1993 04:00 UTC",Falcon 9 | Payload,StatusActive,154.9,Success
+768,768,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 1987 04:00 UTC",Delta IV | Payload,StatusActive,29.8,Success
+769,769,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 1981 04:00 UTC",Soyuz 2 | Payload,StatusActive,108.9,Success
+770,770,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 1969 04:00 UTC",Delta IV | Payload,StatusActive,168.2,Success
+771,771,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1962 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+772,772,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 2016 04:00 UTC",Soyuz 2 | Payload,StatusActive,177.8,Success
+773,773,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 2013 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+774,774,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 2002 04:00 UTC",Soyuz 2 | Payload,StatusActive,53.4,Success
+775,775,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 15, 1998 04:00 UTC",Falcon 9 | Payload,StatusActive,186.1,Success
+776,776,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 2022 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+777,777,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 15, 1990 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+778,778,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 2011 04:00 UTC",Ariane 5 | Payload,StatusActive,147.2,Success
+779,779,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 2010 04:00 UTC",Delta IV | Payload,StatusActive,94.1,Success
+780,780,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Aug 15, 1967 04:00 UTC",Ariane 5 | Payload,StatusActive,49.6,Success
+781,781,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Apr 15, 1963 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+782,782,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 2006 04:00 UTC",Ariane 5 | Payload,StatusActive,103.2,Success
+783,783,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jun 15, 2006 04:00 UTC",Delta IV | Payload,StatusActive,185.7,Failure
+784,784,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 1994 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+785,785,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Feb 15, 1996 04:00 UTC",Ariane 5 | Payload,StatusActive,111.7,Success
+786,786,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Mar 15, 1962 04:00 UTC",Ariane 5 | Payload,StatusActive,115.7,Success
+787,787,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 1965 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+788,788,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 2002 04:00 UTC",Falcon 9 | Payload,StatusActive,63.7,Success
+789,789,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jan 15, 1999 04:00 UTC",Soyuz 2 | Payload,StatusActive,171.2,Success
+790,790,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 1977 04:00 UTC",Soyuz 2 | Payload,StatusActive,59.3,Success
+791,791,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jul 15, 1989 04:00 UTC",Ariane 5 | Payload,StatusActive,23.8,Success
+792,792,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1998 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+793,793,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Feb 15, 1987 04:00 UTC",Ariane 5 | Payload,StatusActive,189.5,Success
+794,794,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Apr 15, 1981 04:00 UTC",Ariane 5 | Payload,StatusActive,31.2,Success
+795,795,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Feb 15, 2009 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+796,796,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 15, 2017 04:00 UTC",Ariane 5 | Payload,StatusActive,159.1,Success
+797,797,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 15, 2004 04:00 UTC",Soyuz 2 | Payload,StatusActive,94.5,Success
+798,798,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 1979 04:00 UTC",Ariane 5 | Payload,StatusActive,167.9,Success
+799,799,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 2008 04:00 UTC",Atlas V | Payload,StatusActive,75.8,Success
+800,800,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 1959 04:00 UTC",Atlas V | Payload,StatusActive,65.5,Success
+801,801,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 1960 04:00 UTC",Delta IV | Payload,StatusActive,35.2,Failure
+802,802,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jul 15, 1994 04:00 UTC",Soyuz 2 | Payload,StatusActive,74.1,Success
+803,803,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1983 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+804,804,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1985 04:00 UTC",Falcon 9 | Payload,StatusActive,,Failure
+805,805,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 2004 04:00 UTC",Soyuz 2 | Payload,StatusActive,137.6,Success
+806,806,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Jul 15, 2001 04:00 UTC",Falcon 9 | Payload,StatusActive,193.1,Success
+807,807,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 1984 04:00 UTC",Atlas V | Payload,StatusActive,53.7,Success
+808,808,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 1996 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+809,809,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 1979 04:00 UTC",Ariane 5 | Payload,StatusActive,25.3,Success
+810,810,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 2014 04:00 UTC",Falcon 9 | Payload,StatusActive,151.5,Success
+811,811,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 1972 04:00 UTC",Delta IV | Payload,StatusActive,168.5,Success
+812,812,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 1973 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+813,813,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 1967 04:00 UTC",Atlas V | Payload,StatusActive,195.2,Success
+814,814,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 2020 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+815,815,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Mar 15, 2009 04:00 UTC",Atlas V | Payload,StatusActive,113.9,Success
+816,816,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Feb 15, 1958 04:00 UTC",Delta IV | Payload,StatusActive,166.9,Success
+817,817,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 1998 04:00 UTC",Delta IV | Payload,StatusActive,96.5,Success
+818,818,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1961 04:00 UTC",Ariane 5 | Payload,StatusActive,80.8,Success
+819,819,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 2018 04:00 UTC",Delta IV | Payload,StatusActive,189.1,Success
+820,820,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Dec 15, 2007 04:00 UTC",Falcon 9 | Payload,StatusActive,132.4,Success
+821,821,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 2003 04:00 UTC",Delta IV | Payload,StatusActive,100.0,Success
+822,822,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 2007 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+823,823,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 1965 04:00 UTC",Ariane 5 | Payload,StatusActive,159.4,Success
+824,824,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 1972 04:00 UTC",Ariane 5 | Payload,StatusActive,145.8,Success
+825,825,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Apr 15, 2001 04:00 UTC",Falcon 9 | Payload,StatusActive,112.4,Success
+826,826,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1980 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+827,827,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 2007 04:00 UTC",Delta IV | Payload,StatusActive,67.2,Success
+828,828,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 1971 04:00 UTC",Soyuz 2 | Payload,StatusActive,150.2,Success
+829,829,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Dec 15, 2012 04:00 UTC",Delta IV | Payload,StatusActive,197.3,Success
+830,830,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Jan 15, 1979 04:00 UTC",Soyuz 2 | Payload,StatusActive,78.9,Success
+831,831,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 15, 2000 04:00 UTC",Atlas V | Payload,StatusActive,182.9,Success
+832,832,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 2007 04:00 UTC",Ariane 5 | Payload,StatusActive,167.1,Success
+833,833,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 2005 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+834,834,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 15, 1957 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+835,835,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Mar 15, 1967 04:00 UTC",Delta IV | Payload,StatusActive,85.2,Success
+836,836,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 2012 04:00 UTC",Ariane 5 | Payload,StatusActive,161.4,Success
+837,837,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 1972 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+838,838,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Apr 15, 2006 04:00 UTC",Soyuz 2 | Payload,StatusActive,149.5,Success
+839,839,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 2003 04:00 UTC",Delta IV | Payload,StatusActive,70.8,Success
+840,840,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 1978 04:00 UTC",Delta IV | Payload,StatusActive,143.9,Success
+841,841,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Jan 15, 1997 04:00 UTC",Atlas V | Payload,StatusActive,165.9,Failure
+842,842,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 2005 04:00 UTC",Atlas V | Payload,StatusActive,124.6,Success
+843,843,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Feb 15, 2015 04:00 UTC",Soyuz 2 | Payload,StatusActive,114.1,Success
+844,844,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Dec 15, 1999 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+845,845,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 2017 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+846,846,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 2009 04:00 UTC",Soyuz 2 | Payload,StatusActive,117.7,Success
+847,847,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 2022 04:00 UTC",Atlas V | Payload,StatusActive,,Failure
+848,848,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Jul 15, 1957 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+849,849,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri May 15, 2019 04:00 UTC",Soyuz 2 | Payload,StatusActive,122.1,Success
+850,850,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1988 04:00 UTC",Soyuz 2 | Payload,StatusActive,83.1,Success
+851,851,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Dec 15, 2009 04:00 UTC",Soyuz 2 | Payload,StatusActive,41.3,Success
+852,852,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Aug 15, 1969 04:00 UTC",Ariane 5 | Payload,StatusActive,145.5,Success
+853,853,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1978 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+854,854,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Aug 15, 1987 04:00 UTC",Soyuz 2 | Payload,StatusActive,20.2,Success
+855,855,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 1996 04:00 UTC",Delta IV | Payload,StatusActive,179.3,Success
+856,856,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1958 04:00 UTC",Delta IV | Payload,StatusActive,62.0,Success
+857,857,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 2018 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+858,858,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 1982 04:00 UTC",Soyuz 2 | Payload,StatusActive,125.6,Success
+859,859,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri May 15, 1997 04:00 UTC",Soyuz 2 | Payload,StatusActive,128.6,Success
+860,860,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 1992 04:00 UTC",Delta IV | Payload,StatusActive,,Failure
+861,861,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jun 15, 2011 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+862,862,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 2020 04:00 UTC",Soyuz 2 | Payload,StatusActive,101.2,Success
+863,863,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 15, 2015 04:00 UTC",Ariane 5 | Payload,StatusActive,48.8,Success
+864,864,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1998 04:00 UTC",Ariane 5 | Payload,StatusActive,181.5,Success
+865,865,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 15, 1985 04:00 UTC",Soyuz 2 | Payload,StatusActive,87.8,Success
+866,866,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Mar 15, 1980 04:00 UTC",Atlas V | Payload,StatusActive,77.9,Success
+867,867,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 2009 04:00 UTC",Falcon 9 | Payload,StatusActive,181.5,Success
+868,868,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 1980 04:00 UTC",Atlas V | Payload,StatusActive,40.4,Success
+869,869,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1961 04:00 UTC",Falcon 9 | Payload,StatusActive,118.4,Success
+870,870,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 2007 04:00 UTC",Delta IV | Payload,StatusActive,191.6,Success
+871,871,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1993 04:00 UTC",Falcon 9 | Payload,StatusActive,80.8,Success
+872,872,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 15, 2022 04:00 UTC",Falcon 9 | Payload,StatusActive,135.3,Success
+873,873,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 1982 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+874,874,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Feb 15, 2015 04:00 UTC",Ariane 5 | Payload,StatusActive,24.6,Failure
+875,875,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jan 15, 1989 04:00 UTC",Soyuz 2 | Payload,StatusActive,152.7,Success
+876,876,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 1965 04:00 UTC",Soyuz 2 | Payload,StatusActive,39.7,Success
+877,877,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 2000 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+878,878,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 1994 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+879,879,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 1970 04:00 UTC",Atlas V | Payload,StatusActive,128.2,Failure
+880,880,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 1987 04:00 UTC",Falcon 9 | Payload,StatusActive,22.6,Success
+881,881,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 2000 04:00 UTC",Ariane 5 | Payload,StatusActive,72.4,Success
+882,882,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 2001 04:00 UTC",Ariane 5 | Payload,StatusActive,,Failure
+883,883,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 1984 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+884,884,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 1971 04:00 UTC",Soyuz 2 | Payload,StatusActive,149.8,Success
+885,885,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jul 15, 2010 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+886,886,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 1997 04:00 UTC",Soyuz 2 | Payload,StatusActive,77.6,Success
+887,887,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jul 15, 1977 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+888,888,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Nov 15, 2017 04:00 UTC",Falcon 9 | Payload,StatusActive,141.9,Failure
+889,889,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 1982 04:00 UTC",Delta IV | Payload,StatusActive,106.9,Success
+890,890,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 1980 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+891,891,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 15, 1994 04:00 UTC",Atlas V | Payload,StatusActive,160.3,Success
+892,892,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 1970 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+893,893,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 1963 04:00 UTC",Atlas V | Payload,StatusActive,103.5,Success
+894,894,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Apr 15, 2021 04:00 UTC",Atlas V | Payload,StatusActive,130.1,Success
+895,895,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 2021 04:00 UTC",Atlas V | Payload,StatusActive,91.2,Success
+896,896,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 15, 1979 04:00 UTC",Delta IV | Payload,StatusActive,92.5,Success
+897,897,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 1957 04:00 UTC",Delta IV | Payload,StatusActive,59.6,Success
+898,898,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 15, 2016 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+899,899,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jan 15, 2018 04:00 UTC",Soyuz 2 | Payload,StatusActive,180.7,Success
+900,900,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 2005 04:00 UTC",Falcon 9 | Payload,StatusActive,109.0,Success
+901,901,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 2003 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+902,902,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 2013 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+903,903,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 1993 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+904,904,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Feb 15, 1998 04:00 UTC",Soyuz 2 | Payload,StatusActive,90.8,Success
+905,905,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Aug 15, 1997 04:00 UTC",Falcon 9 | Payload,StatusActive,176.0,Success
+906,906,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 15, 2007 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+907,907,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Apr 15, 1978 04:00 UTC",Ariane 5 | Payload,StatusActive,70.6,Success
+908,908,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 1974 04:00 UTC",Delta IV | Payload,StatusActive,91.4,Success
+909,909,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 1988 04:00 UTC",Ariane 5 | Payload,StatusActive,188.9,Success
+910,910,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 1988 04:00 UTC",Falcon 9 | Payload,StatusActive,53.5,Success
+911,911,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 1982 04:00 UTC",Ariane 5 | Payload,StatusActive,67.8,Success
+912,912,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 2013 04:00 UTC",Ariane 5 | Payload,StatusActive,77.1,Success
+913,913,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri May 15, 1993 04:00 UTC",Soyuz 2 | Payload,StatusActive,73.6,Failure
+914,914,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 15, 2007 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+915,915,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 15, 1984 04:00 UTC",Ariane 5 | Payload,StatusActive,178.7,Success
+916,916,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 2019 04:00 UTC",Atlas V | Payload,StatusActive,77.5,Success
+917,917,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 15, 1976 04:00 UTC",Atlas V | Payload,StatusActive,109.5,Success
+918,918,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Apr 15, 1962 04:00 UTC",Soyuz 2 | Payload,StatusActive,96.9,Success
+919,919,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 1997 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+920,920,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Jul 15, 1957 04:00 UTC",Ariane 5 | Payload,StatusActive,138.1,Success
+921,921,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 2010 04:00 UTC",Delta IV | Payload,StatusActive,151.3,Success
+922,922,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Sep 15, 1969 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+923,923,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 1976 04:00 UTC",Soyuz 2 | Payload,StatusActive,163.0,Success
+924,924,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 1999 04:00 UTC",Ariane 5 | Payload,StatusActive,,Failure
+925,925,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Mar 15, 1974 04:00 UTC",Ariane 5 | Payload,StatusActive,,Failure
+926,926,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1989 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+927,927,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 2001 04:00 UTC",Soyuz 2 | Payload,StatusActive,176.1,Success
+928,928,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 15, 1987 04:00 UTC",Falcon 9 | Payload,StatusActive,74.9,Success
+929,929,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 1983 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+930,930,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Dec 15, 2006 04:00 UTC",Delta IV | Payload,StatusActive,24.3,Success
+931,931,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 1965 04:00 UTC",Ariane 5 | Payload,StatusActive,41.2,Failure
+932,932,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 15, 1973 04:00 UTC",Atlas V | Payload,StatusActive,158.3,Success
+933,933,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Aug 15, 2007 04:00 UTC",Soyuz 2 | Payload,StatusActive,82.8,Success
+934,934,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 2000 04:00 UTC",Atlas V | Payload,StatusActive,114.8,Success
+935,935,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1977 04:00 UTC",Falcon 9 | Payload,StatusActive,62.9,Success
+936,936,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 2007 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+937,937,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1979 04:00 UTC",Ariane 5 | Payload,StatusActive,92.6,Success
+938,938,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jun 15, 1996 04:00 UTC",Delta IV | Payload,StatusActive,,Failure
+939,939,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 1983 04:00 UTC",Falcon 9 | Payload,StatusActive,135.6,Success
+940,940,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 15, 2012 04:00 UTC",Soyuz 2 | Payload,StatusActive,132.7,Success
+941,941,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 1991 04:00 UTC",Delta IV | Payload,StatusActive,81.4,Success
+942,942,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 1963 04:00 UTC",Ariane 5 | Payload,StatusActive,94.3,Success
+943,943,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 1958 04:00 UTC",Soyuz 2 | Payload,StatusActive,114.8,Success
+944,944,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 2008 04:00 UTC",Soyuz 2 | Payload,StatusActive,115.2,Success
+945,945,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 1962 04:00 UTC",Ariane 5 | Payload,StatusActive,31.1,Success
+946,946,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1992 04:00 UTC",Delta IV | Payload,StatusActive,68.7,Success
+947,947,NASA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Dec 15, 1995 04:00 UTC",Soyuz 2 | Payload,StatusActive,62.9,Success
+948,948,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 15, 1968 04:00 UTC",Atlas V | Payload,StatusActive,156.5,Success
+949,949,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Mar 15, 1987 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+950,950,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Mar 15, 2012 04:00 UTC",Soyuz 2 | Payload,StatusActive,95.5,Success
+951,951,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 15, 1982 04:00 UTC",Atlas V | Payload,StatusActive,136.4,Success
+952,952,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 1986 04:00 UTC",Soyuz 2 | Payload,StatusActive,113.1,Success
+953,953,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 15, 1982 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+954,954,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 1963 04:00 UTC",Delta IV | Payload,StatusActive,136.9,Success
+955,955,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Aug 15, 1985 04:00 UTC",Falcon 9 | Payload,StatusActive,185.5,Success
+956,956,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 1989 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+957,957,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Feb 15, 1987 04:00 UTC",Soyuz 2 | Payload,StatusActive,42.2,Success
+958,958,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 1980 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+959,959,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1998 04:00 UTC",Atlas V | Payload,StatusActive,156.6,Success
+960,960,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 2008 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+961,961,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 1965 04:00 UTC",Falcon 9 | Payload,StatusActive,74.1,Success
+962,962,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Mar 15, 1958 04:00 UTC",Soyuz 2 | Payload,StatusActive,159.3,Success
+963,963,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri May 15, 1964 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+964,964,NASA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 15, 1960 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+965,965,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 15, 1979 04:00 UTC",Soyuz 2 | Payload,StatusActive,142.6,Success
+966,966,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 15, 2011 04:00 UTC",Ariane 5 | Payload,StatusActive,94.6,Success
+967,967,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 2018 04:00 UTC",Soyuz 2 | Payload,StatusActive,38.2,Success
+968,968,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 15, 2020 04:00 UTC",Falcon 9 | Payload,StatusActive,93.4,Success
+969,969,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 15, 2008 04:00 UTC",Soyuz 2 | Payload,StatusActive,167.0,Success
+970,970,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 1959 04:00 UTC",Soyuz 2 | Payload,StatusActive,,Success
+971,971,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri May 15, 1983 04:00 UTC",Delta IV | Payload,StatusActive,94.8,Success
+972,972,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 2002 04:00 UTC",Ariane 5 | Payload,StatusActive,,Success
+973,973,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jun 15, 1994 04:00 UTC",Falcon 9 | Payload,StatusActive,121.5,Success
+974,974,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 15, 1969 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+975,975,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 15, 1980 04:00 UTC",Ariane 5 | Payload,StatusActive,166.1,Success
+976,976,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 15, 1960 04:00 UTC",Falcon 9 | Payload,StatusActive,51.6,Success
+977,977,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Oct 15, 1993 04:00 UTC",Soyuz 2 | Payload,StatusActive,161.5,Success
+978,978,Roscosmos,"ELA-3, Guiana Space Centre, French Guiana","Fri Feb 15, 2015 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+979,979,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Aug 15, 1996 04:00 UTC",Atlas V | Payload,StatusActive,,Success
+980,980,Arianespace,"ELA-3, Guiana Space Centre, French Guiana","Fri Feb 15, 2016 04:00 UTC",Ariane 5 | Payload,StatusActive,36.7,Success
+981,981,ULA,"ELA-3, Guiana Space Centre, French Guiana","Fri Aug 15, 2004 04:00 UTC",Atlas V | Payload,StatusActive,157.5,Success
+982,982,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 1979 04:00 UTC",Falcon 9 | Payload,StatusActive,176.6,Success
+983,983,ULA,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 15, 2001 04:00 UTC",Falcon 9 | Payload,StatusActive,45.9,Success
+984,984,NASA,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 2021 04:00 UTC",Ariane 5 | Payload,StatusActive,54.9,Success
+985,985,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Jun 15, 1980 04:00 UTC",Falcon 9 | Payload,StatusActive,74.1,Success
+986,986,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 15, 2002 04:00 UTC",Atlas V | Payload,StatusActive,87.4,Success
+987,987,Arianespace,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 1959 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+988,988,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Mar 15, 1958 04:00 UTC",Atlas V | Payload,StatusActive,134.6,Success
+989,989,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 1983 04:00 UTC",Ariane 5 | Payload,StatusActive,170.8,Success
+990,990,SpaceX,"ELA-3, Guiana Space Centre, French Guiana","Fri Dec 15, 1965 04:00 UTC",Delta IV | Payload,StatusActive,178.3,Success
+991,991,SpaceX,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri May 15, 1985 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+992,992,Arianespace,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Dec 15, 1990 04:00 UTC",Ariane 5 | Payload,StatusActive,60.2,Success
+993,993,Roscosmos,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 15, 1975 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+994,994,ULA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 15, 1972 04:00 UTC",Soyuz 2 | Payload,StatusActive,102.0,Success
+995,995,Arianespace,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jan 15, 2013 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+996,996,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 15, 1999 04:00 UTC",Delta IV | Payload,StatusActive,24.1,Success
+997,997,Roscosmos,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jan 15, 1964 04:00 UTC",Delta IV | Payload,StatusActive,,Success
+998,998,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1986 04:00 UTC",Falcon 9 | Payload,StatusActive,,Success
+999,999,ULA,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Aug 15, 1997 04:00 UTC",Ariane 5 | Payload,StatusActive,167.5,Success
