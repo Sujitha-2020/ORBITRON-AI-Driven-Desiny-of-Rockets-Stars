@@ -43,26 +43,26 @@
 # --------   These are the screenshots of my results   --------------------
 ## Home Page
 
-![Home](screenshotss/a.Mission Overview.png)
+![Home](screenshotss/a.mission-overview.png)
 
 ## Mission Risk Dashboard
 
-![Dashboard](screenshotss/a.Mission Overview.png)
+![Dashboard](screenshotss/a.mission-overview.png)
 
 ## Launch Prediction
 
-![Launch](screenshotss/2.Launch prediction metrics.png)
+![Launch](screenshotss/b.launch-prediction-metrics.png)
 
 ## Satellite Health Monitoring
 
-![Satellite](screenshotss/c.satellite _telemetry.png)
+![Satellite](screenshotss/c.satellite-telemetry.png)
 
 ## NEO Prediction
 
-![NEO](screenshotss/d.NEO Analysis.png)
+![NEO](screenshotss/d.neo-analysis.png)
 
 ## Mission Evaluation
-![Fusion](screenshotss/f.MIssion Evauation.png)
+![Fusion](screenshotss/e.explainability-shap.png)
 
 #  SYSTEM ARCHITECTURE
 
